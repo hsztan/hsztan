@@ -1,16 +1,30 @@
-### Hi there 👋
+nes (22 sloc)  2.06 KB
+   
+<h1 align="center"> Hello, I'm Henry Nawrocki 👨‍💻 </h1>
 
-<!--
-**hsztan/hsztan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/henry-nawrocki/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Henry_Nawrocki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nawrocki/"></a>
+<a href="https://twitter.com/hsztanski"><img alt="Twitter" src="https://img.shields.io/badge/-hsztanski-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hsztanski"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🤔 About
+-  **Working :**  Web Development | Full Stack
+-  **Learning :** Full-Stack | Open-Source
+-  **Hobbies :** Books | Tech
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** I'm human :innocent:
+-  **Pronouns :** He/Him/His
+
+---
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsztan" alt="Henry Nawrocki" /> </p>
+
+### 📊 Profile stats
+
+[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=hsztan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hsztan/github-readme-stats)
+
+---
