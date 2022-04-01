@@ -1,6 +1,6 @@
 nes (22 sloc)  2.06 KB
    
-<h1 align="center">  Tech Enthusiast | Computer Engineer </h1>
+<h1 align="center">  Full-Stack Developer </h1>
 
 
 <p align="center"> 
