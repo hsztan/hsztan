@@ -23,8 +23,12 @@ nes (22 sloc)  2.06 KB
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsztan" alt="Henry Nawrocki" /> </p>
 
-### 📊 Profile stats
-
-[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=hsztan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hsztan/github-readme-stats)
-
----
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+ </p>
+ <br/>
+ <div align="center" width="280px" >
+  <a href="https://github.com/hsztan/github-readme-stats"><img alt="Henry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hsztan&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hsztan/github-readme-stats"><img alt="Henry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsztan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=fff&text_color=9f9f9f"/></a>
+ <br/>
+</div>
