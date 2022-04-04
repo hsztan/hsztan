@@ -33,3 +33,11 @@ nes (22 sloc)  2.06 KB
   <a href="https://github.com/hsztan/github-readme-stats"><img alt="Henry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsztan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=fff&text_color=9f9f9f"/></a>
  <br/>
 </div>
+
+---
+
+<h2 align="center"> Here is a random meme for you, to make your day better </h2>
+<h3 align="center">(*PS: Refresh the page to see a new meme* :wink: )</h3>
+
+<p align="center">
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="200"></a> <p>
