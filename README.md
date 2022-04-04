@@ -7,6 +7,7 @@ nes (22 sloc)  2.06 KB
 <a href="https://www.linkedin.com/in/henry-nawrocki/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Henry_Nawrocki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nawrocki/"></a>
 <a href="https://twitter.com/hsztanski"><img alt="Twitter" src="https://img.shields.io/badge/-hsztanski-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hsztanski"></a>
 </p>
+<p align="center"> <a href="#"><img alt="For Hire" src="https://img.shields.io/badge/-Searching for new challenges-1ca0f1?style=for-the-badge&color=c1c1c1"></a> </p>
 
 ---
 ### 🤔 About
