@@ -12,8 +12,8 @@ nes (22 sloc)  2.06 KB
 ---
 ### 🤔 About
 -  **Working :**  Web Development | Full-Stack
--  **Learning :** React - Ruby on Rails
--  **Fav. Language :** Javascript
+-  **Learning :** Always
+-  **Fav. Languages :** Ruby & Javascript
 -  **Hobbies :** Books | Tech
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** I'm human :innocent:
