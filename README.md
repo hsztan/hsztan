@@ -1,43 +1,156 @@
-nes (22 sloc)  2.06 KB
-   
-<h1 align="center">  Full-Stack Developer 👨🏻‍💻 </h1>
+<div align="center">
 
+<!-- Elegant Gradient Header with Name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Henry%20Nawrocki&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Engineering%20Lead%20%E2%80%A2%20Ruby%20on%20Rails%20Expert%20%E2%80%A2%20AI%20Empowered&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn"/>
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/henry-nawrocki/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Henry_Nawrocki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-nawrocki/"></a>
-<a href="https://twitter.com/hsztanski"><img alt="Twitter" src="https://img.shields.io/badge/-hsztanski-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hsztanski"></a>
-</p>
-<p align="center"> <a href="#"><img alt="For Hire" src="https://img.shields.io/badge/-Love Challenges!-1ca0f1?style=for-the-badge&color=c1c1c1"></a> </p>
+<br/>
 
----
-### 🤔 About
--  **Working :**  Web Development | Full-Stack
--  **Learning :** Always
--  **Fav. Languages :** Ruby & Javascript
--  **Hobbies :** Books | Tech
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** I'm human :innocent:
--  **Pronouns :** He/Him/His
+### *"You won't be replaced by AI. You'll be replaced by someone who uses AI effectively."*
 
----
-### ✨ Visitors 
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsztan" alt="Henry Nawrocki" /> </p>
+<a href="https://www.linkedin.com/in/henrynawrocki/">
+  <img src="https://img.shields.io/badge/-LinkedIn-667eea?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://calendly.com/hsztan/30min">
+  <img src="https://img.shields.io/badge/-Book%20a%20Call-764ba2?style=flat-square&logo=googlecalendar&logoColor=white" height="28"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/hsztan">
+  <img src="https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white" height="28"/>
+</a>
 
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
- </p>
- <br/>
- <div align="center" width="280px" >
-  <a href="https://github.com/hsztan/github-readme-stats"><img alt="Henry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hsztan&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hsztan/github-readme-stats"><img alt="Henry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsztan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=fff&text_color=9f9f9f"/></a>
- <br/>
+<br/><br/>
+
+<!-- Elegant Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Impact Cards -->
+<img src="https://img.shields.io/badge/10%2B-Years%20Experience-667eea?style=for-the-badge&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/1M%2B-Users%20Served-764ba2?style=for-the-badge&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/99.99%25-Uptime-667eea?style=for-the-badge&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/90%25-Velocity%20Boost-764ba2?style=for-the-badge&labelColor=1a1a2e"/>
+
 </div>
 
+<br/><br/>
+
+## 👋 About
+
+Lead Software Engineer at **Target Test Prep** crafting **Hotwire/Turbo SaaS platforms** that scale to millions.
+
+I help engineering teams **ship 40% faster** and cut cloud costs by **80%** through smart architecture and AI-augmented development workflows.
+
+<br/>
+
+> 💡 *"Expertise is the foundation. AI tools are the amplifier."*
+
+<br/>
+
 ---
 
-<h2 align="center"> Here is a random meme for you, to make your day better </h2>
-<h3 align="center">(*PS: Refresh the page to see a new meme* :wink: )</h3>
+<br/>
 
-<p align="center">
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="200"></a> <p>
+## 🛠 Tech Stack
+
+<div align="center">
+
+<!-- Animated Icons -->
+<img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,js,ts&theme=light" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,aws,gcp,docker&theme=light" />
+
+<br/><br/>
+
+<!-- Additional Tech as Elegant Pills -->
+<img src="https://img.shields.io/badge/Hotwire-FFE801?style=flat-square&logo=hotwire&logoColor=black"/>
+<img src="https://img.shields.io/badge/Turbo-5CD8E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stimulus-77E8B9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=sidekiq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+
+<br/><br/>
+
+<!-- AI Tools -->
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Augment-667eea?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sourcegraph%20Cody-FF5543?style=flat-square&logo=sourcegraph&logoColor=white"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🎓 Credentials
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/MIT-Cloud%20%26%20DevOps-667eea?style=flat-square&labelColor=1a1a2e"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Caltech-DevOps%20PGP-764ba2?style=flat-square&labelColor=1a1a2e"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Purdue-Gen%20AI-667eea?style=flat-square&labelColor=1a1a2e"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-764ba2?style=flat-square&labelColor=1a1a2e"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🤝 Let's Connect
+
+<br/>
+
+**Open to collaborating on Rails projects, AI-augmented development, and mentoring teams.**
+
+<br/>
+
+<a href="https://calendly.com/hsztan/30min">
+  <img src="https://img.shields.io/badge/📅%20Schedule%20a%20Call-667eea?style=for-the-badge"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/henrynawrocki/">
+  <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-764ba2?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+**📍 Lima, Peru** &nbsp;•&nbsp; **� Open to Remote Worldwide**
+
+<br/>
+
+<br/>
+
+<!-- Elegant Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+</div>
+
